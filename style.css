@@ -1,0 +1,40 @@
+body { 
+  background-color: #CD853F
+}
+
+h1 { 
+  margin: 0px 0px 0px 0px;
+  margin-top:30px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  margin-right: 0px;
+  text-align: center;
+  font-size: 100px;
+  font-family: 'cookie'
+}
+
+h3 {
+  margin: 0px 0px 0px 0px;
+  margin-top: px;
+  margin-bottom: 40px;
+  margin-left: 20px;
+  margin-right: 0px;
+  text-align: center;
+  font-family: Courier New;
+  font-size: 31px;
+}
+
+.items {
+  margin: 0px 0px 0px 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  text-align: center;
+  font-family: Courier New;
+  font-size: 20px;
+}
+
+.item input:checked ~ .checkmark{
+  text-decoration-line: line-through
+}
